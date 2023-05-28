@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>Titullo de la web</title>
+</head>
+<body>
+	<h1>Soy el Titulo</h1>
+</body>
+</html>
